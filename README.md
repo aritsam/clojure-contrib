@@ -7,13 +7,10 @@ projects and maven artifacts.
 This repository is kept online for historical reasons. For new
 development on Clojure-contrib, you should check out the following resources:
 
-* [List of projects](http://dev.clojure.org/display/doc/Clojure+Contrib)
+* [List of projects](https://clojure.org/dev/contrib_libs)
 * [Clojure downloads](http://clojure.org/downloads)
 * [User mailing list](http://groups.google.com/group/clojure)
 * [Dev mailing list](http://groups.google.com/group/clojure-dev)
-* [Maven configuration](http://dev.clojure.org/display/doc/Maven+Settings+and+Repositories)
-
-If your favorite contrib isn't in a module yet, you [can help](http://dev.clojure.org/display/design/How+to+Create+New+Contrib+Projects).
 
 ## Clojure-contrib
 
@@ -27,8 +24,8 @@ Versions of clojure-contrib are matched to versions of Clojure.
 
 * If you are using Clojure 1.0, use clojure-contrib 1.0.
 * If you are using Clojure 1.1, use clojure-contrib 1.1.
-* If you are using Clojure 1.2, use clojure-contrib 1.2, or the new [modular Contrib](http://dev.clojure.org/display/doc/Clojure+Contrib) libraries.
-* If you are using Clojure 1.3, use the new [modular Contrib](http://dev.clojure.org/display/doc/Clojure+Contrib) libraries.
+* If you are using Clojure 1.2, use clojure-contrib 1.2, or the new [modular Contrib](https://clojure.org/dev/contrib_libs) libraries.
+* If you are using Clojure 1.3, use the new [modular Contrib](https://clojure.org/dev/contrib_libs) libraries.
 
 ## Building "Old" Clojure-contrib
 
